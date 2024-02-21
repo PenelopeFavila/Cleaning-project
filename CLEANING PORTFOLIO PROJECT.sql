@@ -255,6 +255,3 @@ SET Item_No = TRIM([ITEM NUMBER])
 ALTER TABLE [WASTE REPORT]
 DROP COLUMN [ITEM NUMBER],[Client WO/ Internal WO],SplitClientWO, SplitInternalWO,ID1, [Waste %], [Tons Produced],[Tons Used],[Tons Wasted],Tons
 
-
-SELECT *
-FROM [WASTE REPORT]
